@@ -1,0 +1,12 @@
+* {
+    background-color: crimson;
+    margin: 25px;
+    padding: 25px;
+
+}
+h1, h2, h3 {
+    color: white;
+}
+p {
+    color: blue;
+}
